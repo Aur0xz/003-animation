@@ -1,0 +1,7 @@
+.axolotl{
+    width: 120px;
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    animation: axolotlAnim 5s infinite;
+}
